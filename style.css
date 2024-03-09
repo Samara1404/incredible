@@ -77,3 +77,36 @@ img{
     
     
 }
+.healing h2{
+    color: rgb(20, 42, 49);
+      font-size: 20px;
+    font-weight: 400;
+    margin: 30px 30px;
+   
+}
+.s{
+display: flex;
+align-items: center;
+justify-content: start;
+margin: 0px 100px;
+}
+.if p{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin: 30px 30px;
+}
+.reading{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin: 0px 100px;
+    
+}
+.container{
+    width: 95%;
+    height:  auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
