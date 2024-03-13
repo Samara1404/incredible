@@ -304,11 +304,74 @@ font-size: 16px;
 font-weight: 400;
  }
  .how h1{
-    color: rgb(20, 42, 49);   
+    color: rgb(20, 42, 49);    
     font-size: 64px;
-    font-weight: 400;    
-  
+    font-weight: 400;   
+    text-align: center;
+    margin: 120px 20px;
  }
- .
+.how-img{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text-block h2{
+    color: rgb(20, 42, 49);
+        font-size: 21px;
+    font-weight: 400; 
+    text-align: center;  
+   
+}
+.text-block p{
+    color: rgb(20, 42, 49);
+font-size: 14px;
+font-weight: 400;
+text-align: center; 
+margin: 20px 30px; 
+}
+.text-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 30px;
+}
+.text-main h1{
+    color: rgb(20, 42, 49);
+font-size: 40px;
+font-weight: 400;
 
-
+}
+button{
+    color: rgb(20, 42, 49);
+font-size: 15px;
+font-weight: 400;
+}
+.update h2{
+    color: rgb(20, 42, 49);
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+margin: 50px 30px;
+}
+.block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.last h2{
+    color: rgb(20, 42, 49);
+font-size: 21px;
+font-weight: 400;
+margin: 10px 30px;
+}
+.last p{
+    color: rgb(0, 0, 0);
+font-size: 15px;
+font-weight: 400;
+margin: 10px 30px;
+}
