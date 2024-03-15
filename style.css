@@ -400,3 +400,56 @@ margin: 10px 30px;
     text-align: center;
     margin: 50px 40px;
 }
+.container-1{
+    width: 18px;
+    height: 18px;
+   border-style:groove;
+    border-radius: 2px;
+}
+.icon h2{
+    color: rgb(186, 183, 183);
+    text-align: center;
+    margin: 20px 10px;
+    
+}
+.what-is{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 50px 50px;
+}
+.what h3{
+    color: rgb(20, 42, 49);    
+    font-size: 21px;
+    font-weight: 400;
+   margin: 20px 10px;
+}
+.questions h1{
+    color: rgb(20, 42, 49);
+font-size: 40px;
+font-weight: 400;
+text-align: center;
+}
+.built h2{
+    color: rgb(20, 42, 49);
+font-size: 16px;
+font-weight: 400;
+margin: 30px 50px;
+}
+.free{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.ready h2{
+    color: rgb(255, 255, 255);
+    margin: 10px 100px;
+    font-size: 64px;
+    font-weight: 400;
+    text-align: center;
+   
+}
+.ready{
+    background: url(./img/rec.svg);
+}
